@@ -158,6 +158,7 @@ This repo contains a checklist of open-weight foundation models explored through
 - [ ] GraphCast
 - [ ] Pangu-Weather
 
+<!--
 ## Analysis
 
 **Visualization**
@@ -188,7 +189,6 @@ This repo contains a checklist of open-weight foundation models explored through
 - [ ] Architecture: ResNet vs ViT vs DINOv2 representations
 - [ ] Modality: ESM-2 vs DNABERT-2 vs ChemBERTa
 
-<!--
 tooling - transformerlens, hugging face transformers, timm, open_clip, mlx-lm
 interp - neel nanda's mech interp glossary, transformer circuits thread, distill.pub, nostalgebraist's logit lens
 protein - rao et al. (attention to contact maps)
